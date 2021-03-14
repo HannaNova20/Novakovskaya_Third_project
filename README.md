@@ -1,1 +1,5 @@
-# Novakovskaya_Third_project
+# gulp_clear
+
+## команды запуска 
++ gulp - режим разработки
++ gulp build - режим для продакшн
